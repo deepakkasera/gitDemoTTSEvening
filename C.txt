@@ -1,0 +1,1 @@
+Hey Class. Today we are going to learn git & github.
