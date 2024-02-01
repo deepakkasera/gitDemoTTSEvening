@@ -4,3 +4,5 @@ Hi Class.
 Adding random stuff in A.txt file.
 
 Added something in file A via github.
+
+Added something more in file A via github.
